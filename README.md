@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @maximilianlemberg
+- 👀 I’m interested in Native Mobile, Web, Creative Coding, Life Hacks and everything mind blowing
+- 🌱 I’m currently studying at FHNW Brugg
+- 📫 How to reach me: maximilian.lemberg[at]students.fhnw.ch
